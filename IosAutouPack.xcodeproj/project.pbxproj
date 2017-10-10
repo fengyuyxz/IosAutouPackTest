@@ -283,7 +283,7 @@
 				DEVELOPMENT_TEAM = 4Z78PCW342;
 				INFOPLIST_FILE = IosAutouPack/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.yanxuezhou.IosAutouPack;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.jj-inn.JinjiangAPP";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -300,7 +300,7 @@
 				DEVELOPMENT_TEAM = 4Z78PCW342;
 				INFOPLIST_FILE = IosAutouPack/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.yanxuezhou.IosAutouPack;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.jj-inn.JinjiangAPP";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
